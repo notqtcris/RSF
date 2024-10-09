@@ -11,3 +11,6 @@ stackoverflow.com
 bing.com
 zoom.us
 telegram.org
+images.apple.com
+litespeedtech.com
+cloudflare.com
